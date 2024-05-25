@@ -1,6 +1,6 @@
-backend setup: <br>
-  Path to habit-app/habitproject <br>
-  Open Terminal - Command Prompt and use the commands below. <br>
+### backend setup: <br>
+   Path to habit-app/habitproject <br>
+   Open Terminal - Command Prompt and use the commands below. <br>
   
  >* myenv\Scripts\activate 
  >* pip install django 
@@ -8,4 +8,11 @@ backend setup: <br>
  >* python -m pip install django-cors-headers 
  >* python manage.py migrate 
  >* python manage.py runserver
-   
+<br>
+<br>
+### front end setup: <br>
+  >*Path to habit-app/my-app
+  >*Open Terminal - Command Prompt and use the commands below. <br>
+  >*npm install <br>
+  >*npm start <br>
+
