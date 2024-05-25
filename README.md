@@ -9,10 +9,11 @@
  >* python manage.py migrate 
  >* python manage.py runserver
 <br>
-<br>
-### front end setup: <br>
-  >*Path to habit-app/my-app
-  >*Open Terminal - Command Prompt and use the commands below. <br>
-  >*npm install <br>
-  >*npm start <br>
+
+### frontend setup: <br>
+   Path to habit-app/my-app <br>
+   Open Terminal - Command Prompt and use the commands below. <br>
+   
+  >* npm install <br>
+  >* npm start <br>
 
